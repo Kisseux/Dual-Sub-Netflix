@@ -52,7 +52,7 @@
 					"type": "selects",
 					"items": [
 						{
-							"key": "AUTO",
+							"key": "ZH",
 							"label": "自动 - Automatic"
 						},
 						{
@@ -109,7 +109,7 @@
 				{
 					"id": "@DualSubs.Universal.Settings.Languages[1]",
 					"name": "[字幕] 副语言（目标语言）",
-					"val": "ZH",
+					"val": "KO",
 					"type": "selects",
 					"items": [
 						{
@@ -279,7 +279,7 @@
 				{
 					"id": "@DualSubs.Netflix.Settings.Languages[0]",
 					"name": "[字幕] 主语言（源语言）",
-					"val": "AUTO",
+					"val": "ZH",
 					"type": "selects",
 					"items": [
 						{
@@ -340,7 +340,7 @@
 				{
 					"id": "@DualSubs.Netflix.Settings.Languages[1]",
 					"name": "[字幕] 副语言（目标语言）",
-					"val": "ZH",
+					"val": "KO",
 					"type": "selects",
 					"items": [
 						{
@@ -604,7 +604,7 @@
 				{
 					"id": "@DualSubs.Composite.Settings.Position",
 					"name": "主语言（源语言）字幕位置",
-					"val": "Reverse",
+					"val": "Forward",
 					"type": "selects",
 					"items": [
 						{
